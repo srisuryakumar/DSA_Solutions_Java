@@ -25,7 +25,7 @@ class Solution {
 
 
 
-# 46. Group Anagrams
+# 49. Group Anagrams
 
 ## 🧩 Pattern
 Hash Map + String Encoding (Character Frequency)
